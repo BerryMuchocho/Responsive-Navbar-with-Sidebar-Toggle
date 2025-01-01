@@ -1,4 +1,5 @@
-Responsive Navbar with Sidebar Toggle
+Responsive Navbar with Sidebar Toggle 
+
 A sleek and interactive navigation bar built with HTML, CSS, and JavaScript. It features a responsive design, a toggleable sidebar for mobile screens, and a dynamic call-to-action button with animations.
 
 Features
